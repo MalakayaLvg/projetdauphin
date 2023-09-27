@@ -1,0 +1,17 @@
+.boiteBleu{
+    border: blue 5px solid;
+    height: 95vh;
+    width: 95vw;
+}
+.cercleVert{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.rectangleViolet{
+    background-color: purple;
+    height:50px;
+    width: 100px;
+}
